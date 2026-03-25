@@ -88,3 +88,14 @@ Ejemplo de error:
 
 ### Eliminación exitosa
 ![DELETE](./images/delete-autores-success.png)
+
+
+## 🗄️ Base de datos
+
+El proyecto utiliza MySQL.
+
+Para inicializar la base de datos, ejecutar el script ubicado en:
+
+database/biblioteca-db.sql
+
+Asegúrate de configurar correctamente las credenciales en el archivo `application.properties`.
