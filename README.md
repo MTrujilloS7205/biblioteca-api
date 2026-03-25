@@ -57,6 +57,7 @@ La API implementa un manejo global de excepciones utilizando `@ControllerAdvice`
 
 Ejemplo de error:
 
+```json
 {
   "timestamp": "2026-03-15T10:30:00",
   "status": 404,
@@ -64,6 +65,7 @@ Ejemplo de error:
   "message": "El autor no existe",
   "path": "/autores/10"
 }
+```
 
 ---
 
